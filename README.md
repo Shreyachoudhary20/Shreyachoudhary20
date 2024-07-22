@@ -12,7 +12,7 @@
  
  🔭Welcome!.
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker
 
 💬 Ask me about **Node.js, React, HTML,CSS,JavaScript,Express.js,Tailwind Css, Bootstrap,MonoDB, Firebase...
 
